@@ -23,7 +23,7 @@ public class Exprimidor implements EquipoCocina {
     @Override
     public void ajustarIntensidad (){
         if (encendido && velocidad <5){
-            velociddad++;
+            velocidad++;
             System.out.println("Velocidad del exprimidor:"+ velocidad);
         }
     }
