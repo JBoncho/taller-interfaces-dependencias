@@ -5,7 +5,7 @@ public class MaquinaTe implements EquipoCocina {
 @Override
 public void encender (){
         encendida=true;
-                System.out.println("Maquina de Te encendida, calentando");
+                System.out.println("Maquina de Te encendida, calentando agua");
     }
 
 @Override
